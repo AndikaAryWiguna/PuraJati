@@ -151,8 +151,8 @@ Image_3BCEC952_1D92_82DB_41B2_C4054BD8A088.url = skin/Image_3BCEC952_1D92_82DB_4
 Label_2EBA47F6_0D08_2DEA_417E_EB41FB715206.text = (+/-) 1220 m
 Label_3A816843_1D91_8239_4189_4C1A3B8889B6.text = DESA PENGAMBENGAN, JIMBARAN
 Label_28AE5EA7_0D08_FE6A_4180_3C14590228ED.text = TITIK AKHIR TEA PURA JATI
-Label_6F686FC5_1219_9129_419D_E454C0181AB5.text = TITIK AWAL EVAKUASI PANTAI PENGAMBENGAN
-Label_280CDF71_0D08_3EE6_418F_53A4FD7F06FA.text = TITIK AWAL PANTAI PENIMBANGAN
+Label_6F686FC5_1219_9129_419D_E454C0181AB5.text = TITIK AWAL EVAKUASI PANTAI PURA SEGARA
+Label_280CDF71_0D08_3EE6_418F_53A4FD7F06FA.text = TITIK AWAL PURA SEGARA
 
 ### Multiline Text
 HTMLText_2EF5A147_0D38_6229_41A4_3487D1859F54.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
