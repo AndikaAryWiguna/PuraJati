@@ -10,6 +10,7 @@ LinkBehaviour_3874CCC1_1DF2_8239_41B6_58714C004500.source = https://andikaarywig
 LinkBehaviour_2FB24354_0D38_262F_41A8_E85CBA7BDD06.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_2958DD89_0D38_2226_41A3_30D37560D187.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_29C89BC3_0D38_2629_4199_1B380F6D5C56.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+PopupWebFrameBehaviour_365AECFD_3986_FD7B_418F_B16C1873A0EE.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
 PopupWebFrameBehaviour_2E5CAFB1_0D08_5E69_41A2_143C10034D54.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
 
 ## Hotspot
@@ -34,6 +35,12 @@ imlevel_95DF0489_1209_9739_41A3_49A02B310151.url = media/panorama_F7D67C39_FADE_
 imlevel_5AB4E40C_1DB2_824F_419E_7FA643728FC8.url = media/panorama_F7D67C39_FADE_9AD2_41C3_3AAF4462BD40_HS_t7tchu8o_en.png
 
 ### Title
+album_2AD56D34_398D_5C8A_41AA_FAC18BFBBB8E_1.label = (Pakai Ini) PETA JALUR EVAKUASI TSUNAMI DESA PENGAMBENGAN
+album_2AD56D34_398D_5C8A_41AA_FAC18BFBBB8E_0.label = (pakai ini) PETA BAHAYA TSUNAMI DESA PENGAMBENGAN
+album_2AD56D34_398D_5C8A_41AA_FAC18BFBBB8E_2.label = PETA KAPASITAS DESA PENGAMBENGAN
+album_2AD56D34_398D_5C8A_41AA_FAC18BFBBB8E_3.label = PETA KERENTANAN DESA PENGAMBENGAN
+album_2AD56D34_398D_5C8A_41AA_FAC18BFBBB8E_4.label = PETA RISIKO DESA PENGAMBENGAN
+album_2AD56D34_398D_5C8A_41AA_FAC18BFBBB8E.label = Photo Album (pakai ini) PETA BAHAYA TSUNAMI DESA PENGAMBENGAN
 panorama_F00100D9_FAB2_6B52_41DF_C9C538C55338.label = PuraJati10
 panorama_F006476A_FAB2_F576_41D4_A0446DB598C9.label = PuraJati12
 panorama_F001EB22_FAB2_7EF6_41E6_962C639C7421.label = PuraJati13
@@ -89,38 +96,30 @@ Button_2EF7E142_0D38_622A_4180_BC528424013D.label = DRONE
 Button_2EF40142_0D38_622A_4188_2BBD0BAA8BD2.label = Drone Awal
 Button_2EF41142_0D38_622A_417E_189BF62CA9DB.label = Drone Titik Kumpul
 Button_2EF56143_0D38_6229_4196_69CD8EBA6E1D.label = Gatot Subroto
+Button_2EF4E145_0D38_6229_4160_848FD328A638.label = INFO
 Button_2EF4E143_0D38_6229_4193_6EA41EFF2BFF.label = JALUR
-Button_2EF4F144_0D38_622F_41A3_E38C514D0691.label = Lorem Ipsum
-Button_2EF50144_0D38_622F_4192_FB25FBD51B00.label = Lorem Ipsum
-Button_2EF52144_0D38_622F_4185_7B636CB1A000.label = Lorem Ipsum
+Button_2EEA6147_0D38_6229_4193_BF782939D6E5.label = Lorem Ipsum
+Button_2EEA5147_0D38_6229_419A_597F30935957.pressedLabel = Lorem Ipsum
+Button_2EF50147_0D38_6229_419F_D7C13607E21F.label = Lorem Ipsum
 Button_2EF52147_0D38_6229_41A7_2C6919283405.label = Lorem Ipsum
 Button_2EF56147_0D38_6229_41A8_11135C1D953D.label = Lorem Ipsum
-Button_2EF4C144_0D38_622F_4184_41F0DC4721F4.label = Lorem Ipsum
-Button_2EEAA147_0D38_6229_41A7_CB044894ED3E.label = Lorem Ipsum
 Button_2EF51143_0D38_6229_4198_09FC0D9E6338.pressedLabel = Lorem Ipsum
-Button_2EEA5147_0D38_6229_419A_597F30935957.pressedLabel = Lorem Ipsum
+Button_2EF50144_0D38_622F_4192_FB25FBD51B00.label = Lorem Ipsum
+Button_2EEA5147_0D38_6229_419A_597F30935957.label = Lorem Ipsum
 Button_2EF57143_0D38_6229_41A5_1ED47DF72E53.label = Lorem Ipsum
-Button_2EF59146_0D38_622B_419D_3699443FD1B7.label = Lorem Ipsum
+Button_2EEA4147_0D38_6229_4195_C10B26B62033.label = Lorem Ipsum
 Button_2EF55143_0D38_6229_41AA_5E55E6652F0F.label = Lorem Ipsum
 Button_2EF5B143_0D38_6229_4191_27ED1D4F8997.label = Lorem Ipsum
-Button_2EF50147_0D38_6229_419F_D7C13607E21F.label = Lorem Ipsum
-Button_2EEA5147_0D38_6229_419A_597F30935957.label = Lorem Ipsum
+Button_2EEAA147_0D38_6229_41A7_CB044894ED3E.label = Lorem Ipsum
+Button_2EF4F144_0D38_622F_41A3_E38C514D0691.label = Lorem Ipsum
 Button_2EF48144_0D38_622F_4182_CC2710EAD6F4.label = Lorem Ipsum
-Button_2EF4E144_0D38_622F_41A6_C3C3DED61874.label = Lorem Ipsum
 Button_2EF4E144_0D38_622F_41A6_C3C3DED61874.pressedLabel = Lorem Ipsum
-Button_2EEA4147_0D38_6229_4195_C10B26B62033.label = Lorem Ipsum
-Button_2EF57146_0D38_622B_41A0_D35997FF545F.label = Lorem Ipsum
-Button_2EEA6147_0D38_6229_4193_BF782939D6E5.label = Lorem Ipsum
-Button_2EF5B146_0D38_622B_4191_48E949815979.label = Lorem Ipsum
-Button_2EF54146_0D38_622B_4194_DE9162368C99.label = Lorem Ipsum
-Button_2EF51146_0D38_622B_414F_AB7970D9B3A6.label = Lorem Ipsum
-Button_2EF56146_0D38_622B_4180_AE13335FB144.label = Lorem Ipsum
-Button_2EF53146_0D38_622B_41A3_8DAACEEBFB7F.label = Lorem Ipsum
-Button_2EF56146_0D38_622B_4180_AE13335FB144.pressedLabel = Lorem Ipsum
-Button_2EF4D144_0D38_622F_41A4_E1B1F20FA309.label = Lorem ipsum
+Button_2EF4E144_0D38_622F_41A6_C3C3DED61874.label = Lorem Ipsum
+Button_2EF52144_0D38_622F_4185_7B636CB1A000.label = Lorem Ipsum
+Button_2EF4C144_0D38_622F_4184_41F0DC4721F4.label = Lorem Ipsum
 Button_2EF53147_0D38_6229_4198_45CC07E2B098.label = Lorem ipsum
+Button_2EF4D144_0D38_622F_41A4_E1B1F20FA309.label = Lorem ipsum
 Button_2EF54143_0D38_6229_41A8_654406FE0202.label = Lorem ipsum
-Button_2EF5A146_0D38_622B_41A2_9070A77B0340.label = Lorem ipsum
 Button_2EF53143_0D38_6229_418B_860D3F17F5A2.label = Masjid Baiturahim
 Button_2EF47142_0D38_622A_4195_70396699E9B7.label = Meeting Area 1
 Button_2EF45142_0D38_622A_4199_AAD704A1729E.label = Meeting Area 2
@@ -129,24 +128,19 @@ Button_2EF4B144_0D38_622F_417F_487E84AAEA33.label = Pura Segara
 Button_2EF5F146_0D38_622B_4194_A50E39D9FA8E.label = RESTAURANTS >
 Button_2EF46142_0D38_622A_419F_8707C88D6239.pressedLabel = Reception
 Button_2EF46142_0D38_622A_419F_8707C88D6239.label = Reception
-Button_2EF4E145_0D38_6229_4160_848FD328A638.label = SWIMMING POOL >
 Button_2EF56145_0D38_6229_419E_D790EE3757F3.label = TITIK AKHIR
 Button_2EF46144_0D38_622F_4163_02DF25DC5DAB.label = TITIK AWAL
 Button_2EF48143_0D38_6229_4172_FB94602741E5.label = Terrace
 Button_2EF52143_0D38_6229_4185_68A53AE278EB.label = Titik Awal Balai Subak
 
 ### Image
-Image_2879FDA0_0D08_2266_416C_2280B95AAF00.url = skin/Image_2879FDA0_0D08_2266_416C_2280B95AAF00_en.png
+Image_2DB2EEA7_3986_FD97_41B8_1BE2F78CA33D.url = skin/Image_2DB2EEA7_3986_FD97_41B8_1BE2F78CA33D_en.png
 Image_3BCEC952_1D92_82DB_41B2_C4054BD8A088.url = skin/Image_3BCEC952_1D92_82DB_41B2_C4054BD8A088_en.png
 Image_690C8F12_2815_DBA0_419F_4F3BEEEF928A.url = skin/Image_690C8F12_2815_DBA0_419F_4F3BEEEF928A_en.png
 
 ### Label
-Label_2EBA47F6_0D08_2DEA_417E_EB41FB715206.text = (+/-) 1220 m
 Label_3A816843_1D91_8239_4189_4C1A3B8889B6.text = DESA PENGAMBENGAN, JIMBARAN
 Label_06896943_27D5_E0B4_41B7_892B09F9C634.text = PURA JATI
-Label_28AE5EA7_0D08_FE6A_4180_3C14590228ED.text = TITIK AKHIR TEA PURA JATI
-Label_6F686FC5_1219_9129_419D_E454C0181AB5.text = TITIK AWAL EVAKUASI PANTAI PURA SEGARA
-Label_280CDF71_0D08_3EE6_418F_53A4FD7F06FA.text = TITIK AWAL PURA SEGARA
 
 ### Multiline Text
 HTMLText_2EF5A147_0D38_6229_41A4_3487D1859F54.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
@@ -156,4 +150,4 @@ HTMLText_2EF5A147_0D38_6229_41A4_3487D1859F54.html = <div style="text-align:left
 ### Description
 
 ### Title
-tour.name = Untitled 2
+tour.name = Titik Awal Pura Segara (2)
