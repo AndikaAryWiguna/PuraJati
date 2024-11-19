@@ -37,6 +37,7 @@ imlevel_5AB4E40C_1DB2_824F_419E_7FA643728FC8.url = media/panorama_F7D67C39_FADE_
 ### Title
 album_2AD56D34_398D_5C8A_41AA_FAC18BFBBB8E_1.label = (Pakai Ini) PETA JALUR EVAKUASI TSUNAMI DESA PENGAMBENGAN
 album_2AD56D34_398D_5C8A_41AA_FAC18BFBBB8E_0.label = (pakai ini) PETA BAHAYA TSUNAMI DESA PENGAMBENGAN
+panorama_25658506_3D41_04B2_419E_4521A1A2B43E.label = 31
 album_2AD56D34_398D_5C8A_41AA_FAC18BFBBB8E_2.label = PETA KAPASITAS DESA PENGAMBENGAN
 album_2AD56D34_398D_5C8A_41AA_FAC18BFBBB8E_3.label = PETA KERENTANAN DESA PENGAMBENGAN
 album_2AD56D34_398D_5C8A_41AA_FAC18BFBBB8E_4.label = PETA RISIKO DESA PENGAMBENGAN
@@ -70,21 +71,18 @@ panorama_F003E3B1_FAB6_ADD2_41EC_667C4A46090E.label = PuraJati48
 panorama_F00674CB_FAB1_ABB5_41E0_100BDDFD8CE2.label = PuraJati5
 panorama_F00CD14F_FAB6_6D4D_41EE_090FD6682B5B.label = PuraJati51
 panorama_F00CBC27_FAB6_7AFD_41DF_CE5EDA584A11.label = PuraJati52
-panorama_F00370F5_FAB6_EB5D_41D0_E2E8D57D05D2.label = PuraJati6
-panorama_F0064EF1_FAB1_9754_41CC_C535CC7A86EE.label = PuraJati7
 panorama_F0079C05_FAB2_9ABD_41C6_728A22AA3625.label = PuraJati8
 panorama_F000F576_FAB2_955E_41EB_561530301643.label = PuraJati9
 panorama_F7D67C39_FADE_9AD2_41C3_3AAF4462BD40.label = PuraJatiDroneAwal
 panorama_F4435967_FAF1_FD7D_41DF_9C781240BB8D.label = PuraJatiDroneKumpul
 photo_095D1B31_09C8_BEEA_419C_DDD7C64FD947.label = Screenshot_4
 photo_09669894_09F9_BBAA_4179_2448514F9DCC.label = Screenshot_5
-photo_0975608B_09D8_8BBE_4197_1E54BAABB17E.label = Screenshot_6
 
 ## Popup
 
 ### Body
 htmlText_095B7C81_09CF_7BAA_4187_B70951BE82F3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>MASJID JAMI NURUL HIDAYAH</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;font-family:'Montserrat SemiBold';"><B>-8.39227944513049, 114.58330244148408 </B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B>JH5M+38V, Jl. Raya Pengambengan, Pengambengan, Kec. Negara, Kabupaten Jembrana, Bali</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B>Jarak total: 673,04 m (2.208,13 kaki) Menuju TEA Pura Jati</B></SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_0974705B_09D8_8B5E_418B_735F3F25E468.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>PURA DANG KHAYANGAN JATI</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B><BR/></B></SPAN><SPAN STYLE="font-size:11px;font-family:'Montserrat SemiBold';"><B>-8.39227944513049, 114.58330244148408   </B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B>Pengambengan, Kec. Negara, Kabupaten Jembrana, Bali 82218</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B>Jarak total: 36,51 m (119,78 kaki) Menuju Titik Kumpul</B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_26BF0766_3D41_0372_41C0_472F6E767AB9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>PURA DANG KHAYANGAN JATI</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B><BR/></B></SPAN><SPAN STYLE="font-size:11px;font-family:'Montserrat SemiBold';"><B>-8.39227944513049, 114.58330244148408   </B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B>Pengambengan, Kec. Negara, Kabupaten Jembrana, Bali 82218</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B>Jarak total: 36,51 m (119,78 kaki) Menuju Titik Kumpul</B></SPAN></SPAN></DIV></BODY></HTML></div>
 htmlText_0965AD80_09FB_95AB_4174_38D9D4D7F1B0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>PUSKESMAS II NEGARA</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B>                          </B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;font-family:'Montserrat SemiBold';"><B>-8.39227944513049, 114.58330244148408 </B></SPAN><SPAN STYLE="font-size:12px;font-family:'Montserrat SemiBold';"><B> </B></SPAN><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B> </B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B>JH5P+8HP, Jl. Raya Pengambengan, Pengambengan, Kec. Negara, Kabupaten Jembrana, Bali 82218        </B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B>Jarak total: 325,37 m (1.067,48 kaki) Menuju TEA Pura Jati</B></SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Skin
@@ -99,13 +97,13 @@ Button_2EF56143_0D38_6229_4196_69CD8EBA6E1D.label = Gatot Subroto
 Button_2EF4E145_0D38_6229_4160_848FD328A638.label = INFO
 Button_2EF4E143_0D38_6229_4193_6EA41EFF2BFF.label = JALUR
 Button_2EEA6147_0D38_6229_4193_BF782939D6E5.label = Lorem Ipsum
-Button_2EEA5147_0D38_6229_419A_597F30935957.pressedLabel = Lorem Ipsum
+Button_2EEA5147_0D38_6229_419A_597F30935957.label = Lorem Ipsum
 Button_2EF50147_0D38_6229_419F_D7C13607E21F.label = Lorem Ipsum
 Button_2EF52147_0D38_6229_41A7_2C6919283405.label = Lorem Ipsum
 Button_2EF56147_0D38_6229_41A8_11135C1D953D.label = Lorem Ipsum
-Button_2EF51143_0D38_6229_4198_09FC0D9E6338.pressedLabel = Lorem Ipsum
+Button_2EEA5147_0D38_6229_419A_597F30935957.pressedLabel = Lorem Ipsum
 Button_2EF50144_0D38_622F_4192_FB25FBD51B00.label = Lorem Ipsum
-Button_2EEA5147_0D38_6229_419A_597F30935957.label = Lorem Ipsum
+Button_2EF51143_0D38_6229_4198_09FC0D9E6338.pressedLabel = Lorem Ipsum
 Button_2EF57143_0D38_6229_41A5_1ED47DF72E53.label = Lorem Ipsum
 Button_2EEA4147_0D38_6229_4195_C10B26B62033.label = Lorem Ipsum
 Button_2EF55143_0D38_6229_41AA_5E55E6652F0F.label = Lorem Ipsum
@@ -113,8 +111,8 @@ Button_2EF5B143_0D38_6229_4191_27ED1D4F8997.label = Lorem Ipsum
 Button_2EEAA147_0D38_6229_41A7_CB044894ED3E.label = Lorem Ipsum
 Button_2EF4F144_0D38_622F_41A3_E38C514D0691.label = Lorem Ipsum
 Button_2EF48144_0D38_622F_4182_CC2710EAD6F4.label = Lorem Ipsum
-Button_2EF4E144_0D38_622F_41A6_C3C3DED61874.pressedLabel = Lorem Ipsum
 Button_2EF4E144_0D38_622F_41A6_C3C3DED61874.label = Lorem Ipsum
+Button_2EF4E144_0D38_622F_41A6_C3C3DED61874.pressedLabel = Lorem Ipsum
 Button_2EF52144_0D38_622F_4185_7B636CB1A000.label = Lorem Ipsum
 Button_2EF4C144_0D38_622F_4184_41F0DC4721F4.label = Lorem Ipsum
 Button_2EF53147_0D38_6229_4198_45CC07E2B098.label = Lorem ipsum
@@ -126,8 +124,8 @@ Button_2EF45142_0D38_622A_4199_AAD704A1729E.label = Meeting Area 2
 Button_2EF51143_0D38_6229_4198_09FC0D9E6338.label = Pura Jati
 Button_2EF4B144_0D38_622F_417F_487E84AAEA33.label = Pura Segara
 Button_2EF5F146_0D38_622B_4194_A50E39D9FA8E.label = RESTAURANTS >
-Button_2EF46142_0D38_622A_419F_8707C88D6239.pressedLabel = Reception
 Button_2EF46142_0D38_622A_419F_8707C88D6239.label = Reception
+Button_2EF46142_0D38_622A_419F_8707C88D6239.pressedLabel = Reception
 Button_2EF56145_0D38_6229_419E_D790EE3757F3.label = TITIK AKHIR
 Button_2EF46144_0D38_622F_4163_02DF25DC5DAB.label = TITIK AWAL
 Button_2EF48143_0D38_6229_4172_FB94602741E5.label = Terrace
